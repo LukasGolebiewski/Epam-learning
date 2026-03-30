@@ -1,4 +1,7 @@
-teskt piosenki 
+
 
 2 kolejne linie jak w cwiczeniu
 !!
+
+a teraz bawimy sie GUI
+w bash po wpisaniu git gui&
